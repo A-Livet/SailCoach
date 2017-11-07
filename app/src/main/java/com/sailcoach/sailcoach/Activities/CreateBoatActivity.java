@@ -3,6 +3,8 @@ package com.sailcoach.sailcoach.Activities;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.sailcoach.sailcoach.R;
+
 public class CreateBoatActivity extends AppCompatActivity {
 
     @Override
