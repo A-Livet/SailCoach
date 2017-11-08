@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SailCoach.iml" filepath="$PROJECT_DIR$/SailCoach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SailCoach.iml" filepath="$PROJECT_DIR$/.idea/SailCoach.iml" />
+      <module fileurl="file://C:\Users\a-liv\AndroidStudioProjects\SailCoach\SailCoach.iml" filepath="C:\Users\a-liv\AndroidStudioProjects\SailCoach\SailCoach.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\a-liv\AndroidStudioProjects\SailCoach\app\app.iml" filepath="C:\Users\a-liv\AndroidStudioProjects\SailCoach\app\app.iml" />
     </modules>
   </component>
 </project>
